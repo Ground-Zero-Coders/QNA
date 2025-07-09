@@ -17,4 +17,4 @@ Want to contribute? Just raise a PR with your Q&A snippet!
 🔗 [GZC GitHub Org](https://github.com/orgs/Ground-Zero-Coders)
 
 
-🔗 GZC Discord Link : https://discord.gg/jCFaR57Jvz
+🔗 [GZC GitHub Discord](https://discord.gg/jCFaR57Jvz)
